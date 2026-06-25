@@ -1,0 +1,6 @@
+{
+  "name": "Social Media Engagement Mentor",
+  "description": "An interactive, beginner-friendly mentor for learning social media engagement analysis, exploring synthetic datasets, sandboxing formulas, and analyzing Python code.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
